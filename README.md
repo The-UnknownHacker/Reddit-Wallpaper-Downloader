@@ -5,11 +5,16 @@ A desktop application that allows you to browse and download wallpapers from any
 ## Features
 
 - Browse wallpapers from any subreddit
+- - Now Includes searching Multiple Sub Reddits
 - Preview images before downloading
+-  - Also Preview There resolution now
 - Set images as desktop wallpaper directly
 - Download images to your computer
+- - Also Use this program as a wallpaper manager
 - Dark mode interface
+- - Now Supports Light Mode As well
 - Support for Windows, macOS, and Linux
+- Resolution Filtering - Always find the right resolution for you
 
 ## Installation
 
@@ -30,7 +35,7 @@ python main.py  # If running from source
 2. Double-click the executable to run the application
 
 ## Usage
-1. Enter a subreddit name (default is "wallpapers", a good one is also "wallpaper")
+1. Enter a subreddit name (default is "wallpapers", a good one is also "wallpaper") - You can now add multiple if you prefer
 2. Click "Search" to browse wallpapers
 3. Use "Set as Wallpaper" to set an image as your desktop background
 4. Use "Download" to save an image to your computer
